@@ -3,7 +3,7 @@ title: "El Cuestionario como Instrumento de Investigación"
 author: "David - Colegio Universitario de Cartago"
 format: 
   html:
-    theme: slate
+    theme: cerulean
     toc: true
     toc-depth: 3
     code-fold: true
