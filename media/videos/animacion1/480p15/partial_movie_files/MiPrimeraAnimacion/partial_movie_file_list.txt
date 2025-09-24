@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/david/Library/Mobile Documents/com~apple~CloudDocs/PYTHON/media/videos/animacion1/480p15/partial_movie_files/MiPrimeraAnimacion/1185818338_2390001291_223132457.mp4'
+file 'file:/Users/david/Library/Mobile Documents/com~apple~CloudDocs/PYTHON/media/videos/animacion1/480p15/partial_movie_files/MiPrimeraAnimacion/624642324_1432596116_640391549.mp4'
+file 'file:/Users/david/Library/Mobile Documents/com~apple~CloudDocs/PYTHON/media/videos/animacion1/480p15/partial_movie_files/MiPrimeraAnimacion/624642324_3252161340_2566283101.mp4'
+file 'file:/Users/david/Library/Mobile Documents/com~apple~CloudDocs/PYTHON/media/videos/animacion1/480p15/partial_movie_files/MiPrimeraAnimacion/624642324_2240210012_850088780.mp4'
+file 'file:/Users/david/Library/Mobile Documents/com~apple~CloudDocs/PYTHON/media/videos/animacion1/480p15/partial_movie_files/MiPrimeraAnimacion/624642324_301322594_2034956121.mp4'
+file 'file:/Users/david/Library/Mobile Documents/com~apple~CloudDocs/PYTHON/media/videos/animacion1/480p15/partial_movie_files/MiPrimeraAnimacion/624642324_2872842549_872023487.mp4'
